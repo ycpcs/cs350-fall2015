@@ -118,9 +118,48 @@ You may work ahead and submit any assignments **early**, but you **must not** fa
 ------------------
 ###Academic Integrity
 
-York College’s mission statement stipulates that strict adherence to principles of academic honesty is expected of all students.  Therefore, academic dishonesty will not be tolerated at York College.  Academic dishonesty refers to actions such as, but not limited to, cheating, plagiarism, fabricating research, falsifying academic documents, etc., and includes all situations where students make use of the work of others and claim such work as their own.
+York College's mission statement stipulates that strict adherence to
+principles of academic honesty is expected of all students. Therefore,
+academic dishonesty will not be tolerated at York College. Academic
+dishonesty refers to actions such as, but not limited to, cheating,
+plagiarism, fabricating research, falsifying academic documents, etc.,
+and includes all situations where students make use of the work of others
+and claim such work as their own.
 
-Academic dishonesty will result in a '0' at minimum for all involved work and possible removal from the course at the discretion of the professor.  A written report of the circumstances and disciplinary action will be provided to the student.  A copy of this report will also be forwarded to the Dean of Academic Affairs which may result in suspension from the college for repeat offenses.  Students have the right to challenge any such actions through the normal appeals procedure.  Students are not permitted to withdraw from a course in which they have been accused of academic dishonesty.
+When a faculty member believes a student has committed an act of academic
+dishonesty, the faculty member must promptly notify the student in writing
+and obtain confirmation of notification from the student.  The faculty
+member then has ten business days from that written notification to
+the student to report the incident to the Dean of Academic Affairs and
+the Department Chair. Documentation related to instances of academic
+dishonesty will be kept on file in the student's permanent record. The
+faculty member has full discretion to determine a suitable penalty for
+the student, up to a course grade of 0.  This discretion is limited to
+the course in which the dishonesty took place.  Students may not withdraw
+from a course in which they have been accused of academic dishonesty,
+unless and until the accusation is withdrawn by the faculty member or
+is overturned by the Student Welfare Committee or the Dean of Academic
+Affairs.
+
+Students who believe they have been unjustly charged or sanctioned must
+discuss the situation with the faculty member and have 10 business
+days thereafter to submit an appeal to Student Welfare Committee
+through the Dean of Academic Affairs. If an appeal is filed, the
+Student Welfare Committee will then conduct a hearing to review the
+charge and/or sanction.  In the case of an egregious first offense, the
+faculty member may request that the Student Welfare Committee conduct a
+hearing and determine a sanction, which may involve academic probation,
+suspension or dismissal from the College.
+
+If the Dean of Academic Affairs determines that the academic dishonesty is
+the student's second offense, the Dean will provide written notification
+to the student, the faculty member, and the Department Chair. The Student
+Welfare Committee will automatically conduct a hearing to review the
+charge and decide on an appropriate sanction, which will involve academic
+probation, suspension or dismissal from the College. Students who believe
+the Student Welfare Committee has unjustly sanctioned them may submit
+a written appeal to the Dean of Academic Affairs within 72 hours of
+receiving notification of the Student Welfare Committee's sanction.
 
 
 ------------------
