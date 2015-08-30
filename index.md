@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS350
-title: CS350 - Data Structures
+title: Data Structures
 ---
 
 ------------------------
