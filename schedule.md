@@ -12,7 +12,7 @@ Additional content will be added as it becomes available throughout the semester
 >| ---------------|:--------------------------------------------------|-----------------------------------------------|-----------------------------------|
 >||||
 >| Tue, Sep 1    |  [Intro to C++](lectures/intro_to_C++.html)       |  [Lab 1: Histogram in C++](labs/lab01.html)   |                                   |  <!-- Lab01: Histogram in C++ -->
->| Thur, Sep 3   |  Stacks   |   |   |
+>| Thur, Sep 3   |  [Stacks](lectures/Stacks_lecture.pdf) & [Queues](lectures/Queues_lecture.pdf)  |  [Lab 2: Postfix expression evaluator](labs/lab02.html)  |  [Integer Array Stack (Due Sep 9 by 11:59 PM)](assign/assign01.html)  |  <!-- Stacks & Queues Activity, Lab02: Postfix expression evaluator, Assign01: Integer Array Stack -->
 >||||
 >| Tue, Sep 8    |  C++ Templates   |   |   |
 >| Thur, Sep 10  |  Linked Lists   |   |   |
