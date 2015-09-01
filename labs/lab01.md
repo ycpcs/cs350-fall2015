@@ -27,7 +27,7 @@ should look like this:
 ```cpp
 class Histogram {
 private:
-    // *fields go here...*
+    int *m_counts;
 
     public:
     Histogram(int numBuckets);
@@ -41,6 +41,8 @@ private:
 The idea is that a **```Histogram```** object counts the number of occurrences of events, where each event is identified by an integer *bucket*.  The **```numBuckets```** parameter to the constructor specifies how many buckets the **```Histogram```** object will have.  The first bucket has index 0, the second has index 1, etc.
 
 You will need to add implementations for the constructor, destructor, **```increaseCount```**, and **```getCount```** methods in **```Histogram.cpp```**.
+
+**NOTE** that you should **NOT** add any additional fields in either the **```Histogram.h```** or the **```Histogram.cpp```** files.
 
 <br>
 ###Testing
@@ -95,7 +97,7 @@ Z:
 ----------------------
 
 Use a dynamically-allocated array of **```int```** elements to store the counts
-for each bucket.  Declare a field whose type is **```int```**\*  to store
+for each bucket.  There is a field declared whose type is **```int```**\*  to store
 the counts.  The constructor should create a dynamically allocated
 array in the constructor and assign it to the **```int```**\* field.
 
