@@ -58,7 +58,7 @@ Since the backing array will be resizable for space efficiency, we will need to 
 
 **Tasks**
 
-  - Add code to **```IntArrayStack()```** (in **IntArrayStack.cpp**) to dynamically allocate an initial array of size 1. Do not forget to also set the **```size```** and **```top```** indicies appropriately.  Use a value of **```-1```** to initialize your value for **```top```**.
+  - Add code to **```IntArrayStack()```** (in **IntArrayStack.cpp**) to dynamically allocate an initial array of size 1. Do not forget to also set the **```maxSize```** and **```top```** indicies appropriately.  Use a value of **```-1```** to initialize your value for **```top```**.
   - Add code to **```~IntArrayStack()```** to free the memory pointed to by **```stack```**. Note: **```stack```** is an *array* so deallocate it appropriately.
 
 
@@ -136,7 +136,7 @@ In order to dynamically adjust the size of the backing array, we first note that
 	
 **Tasks**
 
-  - Add a **```void```** method named **```resize()```** (don't forget to qualify it with the class name) that takes one parameter for the new backing array size that changes the size of **```stack```** to the new size with the same values as the original version.
+  - Add a **```void```** method named **```resize()```** (don't forget to qualify it with the class name) that takes one parameter for the new backing array size that changes the size of **```stack```** to the new size with the same values as the original version.  Don't forget to update the **```maxSize```** variable.
 
   
 <br>
