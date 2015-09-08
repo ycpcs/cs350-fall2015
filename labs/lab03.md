@@ -32,6 +32,8 @@ The copy constructor should initialize the **```Histogram```** object so that it
 
 The assignment operator should modify the **```Histogram```** object so that it becomes an exact copy of the **```Histogram```** passed as the **```const```** reference parameter **```rhs```**.
 
+The assignment operator should return a pointer to the **```Histogram```** object that was updated (i.e. **```return *this;```**).
+
 <br>
 ###Hints
 --------------
