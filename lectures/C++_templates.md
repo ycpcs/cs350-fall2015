@@ -62,7 +62,7 @@ public:
     ArrayList();
 
     // Destructor
-    ~ArrayList(){};
+    ~ArrayList();
 
     // Interface methods
     void add(const T & elt);
