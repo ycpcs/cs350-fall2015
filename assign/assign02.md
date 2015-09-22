@@ -4,14 +4,13 @@ course_number: CS350
 title: "Assignment 2: Doubly Linked List"
 ---
 
-**Due Monday, Sept 15th by 11:59pm**
 
 This lab will implement a doubly linked list that stores arbitrary objects via class templates. The list will dynamically allocate nodes as necessary for space efficiency.
 
 
 ###Getting Started
 ------------------
-If you don't alraedy have one, create a directory on your **H:** drive named **CS350** (or anywhere else you choose). Navigate into this new directory and create a subdirectory named **assignments**.
+If you don't already have one, create a directory on your **H:** drive named **CS350** (or anywhere else you choose). Navigate into this new directory and create a subdirectory named **assignments**.
 
 Download [LinkedList.zip](LinkedList.zip), saving it into the **assignments** directory. 
 
@@ -210,18 +209,18 @@ Congratulations, you have just written your first C++ data structure that uses t
 
 **75 points**
 
-* Constructor - 5 points
-* Destructor - 5 points
-* getFirst() - 5 points
-* getLast() - 5 points
-* find() - 5 points
-* findNode() - 10 points
-* insert() - 10 points
-* remove() - 10 points
-* isEmpty() - 5 points
-* makeEmpty() - 5 points
-* Copy constructor - 5 points
-* Assignment operator - 5 points
+* Constructor - **5 points**
+* Destructor - **5 points**
+* getFirst() - **5 points**
+* getLast() - **5 points**
+* find() - **5 points**
+* findNode() - **10 points**
+* insert() - **10 points**
+* remove() - **10 points**
+* isEmpty() - **5 points**
+* makeEmpty() - **5 points**
+* Copy constructor - **5 points**
+* Assignment operator - **5 points**
 
 
 

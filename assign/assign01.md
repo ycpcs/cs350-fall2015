@@ -9,7 +9,7 @@ In this assignment, you will implement a stack data structure that contains (non
 ###Getting Started
 ------------------
 
-If you don't alraedy have one, create a directory on your **H:** drive named **CS350** (or anywhere else you choose). Navigate into this new directory and create a subdirectory named **assignments**.
+If you don't already have one, create a directory on your **H:** drive named **CS350** (or anywhere else you choose). Navigate into this new directory and create a subdirectory named **assignments**.
 
 Download [ArrayStack.zip](ArrayStack.zip), saving it into the **assignments** directory. 
 
@@ -158,13 +158,13 @@ Congratulations, you have just written your first C++ data structure!
 
 **50 points**
 
-* Constructor - 5 points
-* Destructor - 5 points
-* push() - 10 points
-* pop() - 10 points
-* emptyStack() - 5 points
-* isEmpty() - 5 points
-* resize() - 10 points
+* Constructor - **5 points**
+* Destructor - **5 points**
+* push() - **10 points**
+* pop() - **10 points**
+* emptyStack() - **5 points**
+* isEmpty() - **5 points**
+* resize() - **10 points**
 
 
 <br>

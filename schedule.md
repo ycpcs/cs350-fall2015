@@ -20,7 +20,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Tue, Sep 15     |  [Doubly Linked Lists](lectures/DoublyLinkedList_lecture.pdf)  |  [Lab 5: Linked list implementation](labs/lab05.html)  |  [Doubly Linked List (Due Sep 21 by 11:59 PM)](assign/assign02.html)  | <!-- Lab05: Linked list implementation, Assign02: Doubly Linked List -->
 >| Thur, Sep 17   |  [Skip Lists](lectures/Skip_Lists.pdf)                         |                                      |                                   |  <!-- SkipList Find Activity -->
 >||||
->| Tue, Sep 22    |  Skip Lists (Cont.)                                             |   |   | <!-- SkipList Insert Activity, Assign03: Skip List (Due Sep 22)-->
+>| Tue, Sep 22    |  Skip Lists (Cont.)                               |                                               |  [SkipList (Due Sep 28 by 11:59 PM)](assign/assign03.html)  |  <!-- SkipList Insert Activity, Assign03: Skip List (Due Sep 28)-->
 >| Thur, Sep 24   |  Review for Exam #1                                             |   |   | 
 >||||
 >| Tue, Sep 29    |  **Exam #1**                                                    |   |   |
