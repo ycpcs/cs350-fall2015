@@ -166,6 +166,8 @@ as trees:
 >|:--------------:|:-----------:|:-----------------------------------------------------------------------:|
 >| **Tree**       |  ![image](images/assign04/expr1.png)  |  ![image](images/assign04/expr2.png)  |
 
+**Tips:** In C++ you can get the cosine of **```value```** by calling **```cos(value)```**.  Likewise, you can get the sine of **```value```** by calling **```sin(value)```**.  For the constant pi, use the built in constant **```M_PI```**.
+
 
 <br>
 ####Generating "Random" Expression Trees
