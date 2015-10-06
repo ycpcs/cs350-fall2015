@@ -26,7 +26,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Tue, Sep 29    |  **Exam #1**                                                    |   |   |
 >| Thur, Oct 1    |  [Trees](lectures/Trees_lecture.pdf) & [Tree Traversal](lectures/Tree_Traversal_lecture.pdf)   |  [Lab 6: Binary tree traversal algorithms](labs/lab06.html) | [RandomArt (Due Oct 12)](assign/assign04.html) |  <!--Lab06: Binary tree traversal algorithms, Assign04: Random Art (Due Oct 12)-->
 >||||
->| Tue, Oct 6     |  [Binary Search Trees, Find](lectures/Binary_Search_Trees.pdf)  |   |   |  <!-- Lab07: Binary search trees, Assign05: BST (Due Oct XX) -->
+>| Tue, Oct 6     |  [Binary Search Trees, Find](lectures/Binary_Search_Trees.pdf)  |  [Lab 7: Binary search trees](labs/lab07.html)  |   |  <!-- Lab07: Binary search trees -->
 >| Thur, Oct 8    |  [Binary Search Trees, Insert/Remove](lectures/Binary_Search_Trees.pdf)  |   |   |
 >||||
 >| Tue, Oct 13     |  [AVL Trees](lectures/AVL_Trees.pdf)   |   |   |  <!-- AVL Insert Activity -->
