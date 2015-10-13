@@ -4,8 +4,6 @@ course_number: CS350
 title: "Assignment 4: Random Art"
 ---
 
-**Due Monday, Oct 6th by 11:59pm**
-
 **Acknowledgment:** The
 [idea for this assignment](http://nifty.stanford.edu/2009/stone-random-art/)
 comes from [Christopher Stone](http://www.cs.hmc.edu/~stone/)
