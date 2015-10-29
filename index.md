@@ -18,6 +18,7 @@ All information related to the course will be posted here.
 * [Schedule](schedule.html)
 * [Resources](resources/index.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
+* [Activities](activities.html)
 
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
