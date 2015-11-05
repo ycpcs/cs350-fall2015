@@ -255,22 +255,22 @@ Congratulations, you have just implemented a binary search tree C++ data structu
 
 **125 points**
 
-* Constructor - 5 points
-* Destructor - 5 points
-* isEmpty() - 5 points
-* find() - 5 points
-* findNode() - 10 points
-* findMin() - 5 points
-* findMinNode() - 5 points
-* findMax() - 5 points
-* findMaxNode() - 5 points
-* insert() - 5 points
-* insertNode() - 15 points
-* findSuccessor() - 10 points
-* findParentOf() - 10 points
-* remove() - 20 points
-* makeEmpty() - 5 points
-* removeAllNodes() - 10 points
+* Constructor - **5 points**
+* Destructor - **5 points**
+* isEmpty() - **5 points**
+* find() - **5 points**
+* findNode() - **10 points**
+* findMin() - **5 points**
+* findMinNode() - **5 points**
+* findMax() - **5 points**
+* findMaxNode() - **5 points**
+* insert() - **5 points**
+* insertNode() - **15 points**
+* findSuccessor() - **10 points**
+* findParentOf() - **10 points**
+* remove() - **20 points**
+* makeEmpty() - **5 points**
+* removeAllNodes() - **10 points**
 
 
 

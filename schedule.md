@@ -39,7 +39,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Thur, Oct 29   |  Review for Exam #2        |   |   |
 >||||
 >| Tue, Nov 3     |  **Exam #2**               |   |   |
->| Thur, Nov 5    |  [AA-Trees, Insert](lectures/AA-tree_lecture.pdf)   |   |   |  <!-- AA Insert Activity, Assign06: AA Tree (Due Nov 10) -->
+>| Thur, Nov 5   |  [AA-Trees, Insert](lectures/AA-tree_lecture.pdf) |                                               |  [AATree (Due Nov 17 by 11:59 PM)](assign/assign06.html)  |  <!-- AA Insert Activity, Assign06: AA Tree (Due Nov 17 by 11:59 PM) -->
 >||||
 >| Tue, Nov 10    |  [AA-Trees, Delete](lectures/AA-tree_lecture.pdf)   |   |   |  <!-- AA Delete Activity -->
 >| Thur, Nov 12   |  [B-Trees](lectures/B-Trees.pdf)                    |   |   |  <!-- B-Trees Activity -->
@@ -48,10 +48,10 @@ Additional content will be added as it becomes available throughout the semester
 >| Thur, Nov 19   |  **Exam #3**          |   |   |
 >||||
 >| Tue, Nov 24    |  [Binary Heaps](lectures/Heaps.pdf)   |   |   |  <!-- Binary Heap Activity, Assign07: Binary Heap (Due Nov 26)-->
->| Thur, Nov 26   |  Binary Heaps (Cont.)                 |   |   |
+>| Thur, Nov 26   |  **NO CLASS - Thanksgiving Break**    |   |   |
 >||||
->| Tue, Dec 1     |  [Graphs](lectures/Graphs.pdf) & [Dijkstra's Algorithm](lectures/Dijkstras_Algorithm.pdf)   |   |   |
->| Thur, Dec 3    |  **NO CLASS - Thanksgiving Break**                                                          |   |   |
+>| Tue, Dec 1     |  Binary Heaps (Cont.)                 |   |   |
+>| Thur, Dec 3    |  [Graphs](lectures/Graphs.pdf) & [Dijkstra's Algorithm](lectures/Dijkstras_Algorithm.pdf)   |   |   |
 >||||
 >| Tue, Dec 8     |  [Hash Tables](lectures/Hash_Tables.pdf)   |   |   |  <!-- Hash Tables Activity, Assign08: Hash Table (Due Dec 8)-->
 >| Thur, Dec 10   |  Hash Tables (Cont.)                       |   |   |
