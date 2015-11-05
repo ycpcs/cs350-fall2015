@@ -70,7 +70,7 @@ Since the tree will grow dynamically as needed, the constructor simply needs to 
 
 **Tasks**
 
-  * Add code to **```AATree()```** (in **```AATree.cpp```**) to initialize the **```bottomNode```** pointer (and ALL of its fields appropriately). Also assign the **```root```**, **```lastNode```**, and **```deletedNode```** pointers to the **```bottomNode```** (since there are no nodes in the tree yet).
+  * Add code to **```AATree()```** (in **```AATree.cpp```**) to initialize the **```bottomNode```** pointer (and ALL of its fields appropriately). Also assign the **```root```**, **```lastNode```**, and **```deletedNode```** pointers to the **```bottomNode```** (since there are no nodes in the tree yet). Set the level of the **```bottomNode```** to 0 since it will sit BELOW all of the level 1 nodes.  Set the left and right children of **```bottomNode```** to point to **```bottomNode```**.
 
   * Add code to **```~AATree()```** (in **```AATree.cpp```**) to free all **```Node```**s in the tree. Note: This operation should also deallocate the **```bottomNode```** that was allocated in the constructor.
 
