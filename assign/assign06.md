@@ -158,13 +158,13 @@ FIND-MAXIMUM-NODE-ITERATIVE(n)
 ###6. Insert() / InsertNode() [*Recursive*]
 ------------------------------------------------
 
-To insert a value into an AA tree recursively, like a generic BST the node is initially inserted at the proper leaf location. To rebalance the tree as the recursion is unrolled, a **```skew()```** and **```split()```** operation is called at each parent node.
+To insert a value into an AA tree recursively, like a generic BST the node is initially inserted at the proper leaf location. To rebalance the tree as the recursion is unrolled, a **```skew()```** and **```split()```** operation is called at each parent node.  Do not allow insertion of duplicate values -- simply ignore duplicates.
 
 **Tasks**
 
   * Add a **```void```** method named **```insert()```** (do not forget to qualify it with the class name) that takes a **```const```** reference to a **```T```** object parameter and inserts a **```Node```** containing the data at the appropriate place in the tree. Hint: Consider using the **```insertNode()```** method passing the **```root```** as an argument.
 
-  * Add a method named **```insertNode()```** (do not forget to qualify it with the class name) that takes a *reference to a pointer* to a **```Node```** for the starting point and a **```const```** reference to a **```T```** object as parameters and returns a *pointer* to the newly inserted **```Node```**. Use the pseudocode from Andersson's paper as a reference for this routine.  You can ignore the **```ok```** variable in Andersson's pseudocode.
+  * Add a method named **```insertNode()```** (do not forget to qualify it with the class name) that takes a *reference to a pointer* to a **```Node```** for the starting point and a **```const```** reference to a **```T```** object as parameters and returns a *pointer* to the newly inserted **```Node```**. Use the pseudocode from Andersson's paper as a reference for this routine.  You can ignore the **```ok```** variable in Andersson's pseudocode.  If the value to be inserted already exists in the tree, simply return the **```Node```** that contains that value.
 
 
 
