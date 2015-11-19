@@ -47,13 +47,13 @@ Additional content will be added as it becomes available throughout the semester
 >| Tue, Nov 17    |  Review for Exam #3   |   |   |
 >| Thur, Nov 19   |  **Exam #3**          |   |   |
 >||||
->| Tue, Nov 24    |  [Binary Heaps](lectures/Heaps.pdf)   |   |   |  <!-- Binary Heap Activity, Assign07: Binary Heap (Due Nov 26)-->
+>| Tue, Nov 24    |  [Binary Heaps](lectures/Heaps.pdf)   |   |  [Binary Heap (Due Dec 7 by 11:59 PM)](assign/assign07.html)  |  <!-- Binary Heap Activity, Assign07: Binary Heap (Due Dec 7)-->
 >| Thur, Nov 26   |  **NO CLASS - Thanksgiving Break**    |   |   |
 >||||
 >| Tue, Dec 1     |  Binary Heaps (Cont.)                 |   |   |
 >| Thur, Dec 3    |  [Graphs](lectures/Graphs.pdf) & [Dijkstra's Algorithm](lectures/Dijkstras_Algorithm.pdf)   |   |   |
 >||||
->| Tue, Dec 8     |  [Hash Tables](lectures/Hash_Tables.pdf)   |   |   |  <!-- Hash Tables Activity, Assign08: Hash Table (Due Dec 8)-->
+>| Tue, Dec 8     |  [Hash Tables](lectures/Hash_Tables.pdf)   |   |   |  <!-- Hash Tables Activity, Assign08: Hash Table (Due Dec 13)-->
 >| Thur, Dec 10   |  Hash Tables (Cont.)                       |   |   |
 >||||
 >| Tue, Dec 15    |  **Final Exam**                            |   |   |
