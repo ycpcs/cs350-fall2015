@@ -203,20 +203,20 @@ Congratulations, you have just implemented an binary heap C++ data structure wit
 
 **80 points**
 
-* Constructor - 5 points
-* Destructor - 5 points
-* isEmpty() - 2 points
-* makeEmpty() - 2 points
-* resizeArray() - 5 points
-* leftIndex() - 2 points
-* rightIndex() - 2 points
-* parentIndex() - 2 points
-* minChild() - 5 points
-* insert() - 10 points
-* percolateUp() - 10 points
-* removeMin() - 10 points
-* percolateDown() - 10 points
-* buildHeap() - 10 points
+* Constructor - **5 points**
+* Destructor - **5 points**
+* isEmpty() - **2 points**
+* makeEmpty() - **2 points**
+* resizeArray() - **5 points**
+* leftIndex() - **2 points**
+* rightIndex() - **2 points**
+* parentIndex() - **2 points**
+* minChild() - **5 points**
+* insert() - **10 points**
+* percolateUp() - **10 points**
+* removeMin() - **10 points**
+* percolateDown() - **10 points**
+* buildHeap() - **10 points**
 
 
 
