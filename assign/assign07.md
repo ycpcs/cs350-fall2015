@@ -103,7 +103,7 @@ This utility method will simply allocate a new backing array and copy the *valid
 
 **Tasks**
 
-  * Add code to the **```resizeArray()```** method that takes an **```int```** parameter representing the new size for the largest heap the array can store. It should copy the *valid* elements from the current heap's backing array and then *deallocate* the old backing array. Hint: Remember that the 0th index of the backing array does not store a heap element.  Also, remember to update the new maximal heap size of the new backing array in the appropriate class field (note the size of the *heap* should not change).
+  * Add code to the **```resizeArray()```** method that takes an **```int```** parameter representing the new size for the largest heap the backing array can store (the **```int```** parameter is NOT the size of the new backing array). It should copy the *valid* elements from the current heap's backing array and then *deallocate* the old backing array. Hint: Remember that the 0th index of the backing array does not store a heap element.  Also, remember to update the new maximal heap size of the new backing array in the appropriate class field (note the size of the *heap* should not change).
 
 
 
