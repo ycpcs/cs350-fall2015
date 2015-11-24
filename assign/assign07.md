@@ -167,7 +167,7 @@ Removing elements from a heap is straightforward since the minimum element is *g
 
   * Add code to the **```percolateDown()```** method that takes an **```int```** parameter of the index of the current node. The method should continually swap the node with the *smaller* of its two children until the node is either smaller than (or equal to) *both* children or at the *bottom* of the heap.  Hint: To determine which child node is smaller, consider using the **```minChild()```** method.
 
-  * Add code to the **```removeMin()```** method that takes no parameters and returns a **```T```** object from the top of the heap (or -1 if there is no minimum element). The method should swap the top element (to be deleted) with the last *valid* element in the heap (if there is one) and then percolate the new top element down the heap. Hint: If the size of the *reduced* heap is less that a *third* of the backing array, the backing array should be cut in *half* (consider using the resizeArray() method).
+  * Add code to the **```removeMin()```** method that takes no parameters and returns a **```T```** object from the top of the heap (or -1 if there is no minimum element). The method should swap the top element (to be deleted) with the last *valid* element in the heap (if there is one) and then percolate the new top element down the heap. Hint: If the size of the *reduced* heap is less that a *third* of the backing array (i.e. **```(heapSize < maxSize/3)```**), the backing array should be cut in *half* (consider using the resizeArray() method).
 
 
 
