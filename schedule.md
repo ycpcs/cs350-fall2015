@@ -51,7 +51,7 @@ Additional content will be added as it becomes available throughout the semester
 >| Thur, Nov 26   |  **NO CLASS - Thanksgiving Break**    |   |   |
 >||||
 >| Tue, Dec 1     |  Binary Heaps (Cont.)                 |   |   |
->| Thur, Dec 3    |  [Graphs](lectures/Graphs.pdf) & [Dijkstra's Algorithm](lectures/Dijkstras_Algorithm.pdf)   |   |   |
+>| Thur, Dec 3    |  [Graphs](lectures/Graphs.pdf) & [Dijkstra's Algorithm](lectures/Dijkstras_Algorithm.pdf)   |  |  [Hash Table (Due Dec 13 by 11:59 PM)](assign/assign08.html)  |
 >||||
 >| Tue, Dec 8     |  [Hash Tables](lectures/Hash_Tables.pdf)   |   |   |  <!-- Hash Tables Activity, Assign08: Hash Table (Due Dec 13)-->
 >| Thur, Dec 10   |  Hash Tables (Cont.)                       |   |   |

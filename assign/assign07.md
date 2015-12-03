@@ -65,7 +65,7 @@ Since the backing array will change dynamically as needed, the constructor shoul
 
 **Tasks**
 
-  * Add code to **```BinHeap()```** (in **BinHeap.cpp**) to dynamically allocate a backing array of of **```T```** elements with sufficient size for a single element heap. Be sure to also initialize the two size fields in the class accordingly. Since the heap indicies start at 1, set a sentinel value of -1 into the 0 index element of the backing array. Hint: Consider how many elements you need to initially allocate to accomodate both the sentinel value and one heap element. 
+  * Add code to **```BinHeap()```** (in **BinHeap.cpp**) to dynamically allocate a backing array of **```T```** elements with sufficient size for a single element heap. Be sure to also initialize the two size fields in the class accordingly. Since the heap indicies start at 1, set a sentinel value of -1 into the 0 index element of the backing array. Hint: Consider how many elements you need to initially allocate to accomodate both the sentinel value and one heap element. 
 
   * Add code to **```~BinHeap()```** (in **BinHeap.cpp**) to deallocate the backing array (note this will remove all the elements automatically).
 
