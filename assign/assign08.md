@@ -59,7 +59,7 @@ The constructor will need to dynamically allocate the **```table```** field base
 
 **Tasks**
 
-  * Add code to **```HashTable()```** to dynamically allocate an array of **```Node*```** elements based on the **```tableSize```** parameter. Hint: Be sure to initialize the elements of the array to **```NULL```** and initialize the size field in the class to maintain the size of the table. 
+  * Add code to **```HashTable()```** to dynamically allocate an array of **```Node*```** elements based on the **```tableSize```** parameter. Hint: Be sure to initialize the elements of the array to **```NULL```** and initialize the **```size```** field in the class to maintain the size of the table. 
 
   * Add code to **```~HashTable()```** to iterate through the entire hash table to deallocate all the nodes in each list. Then the table array should be deallocated *after* removing all the nodes.
 
